@@ -11,6 +11,7 @@ AWS data licence is "CC BY-NC-SA 4.0", so use of this data must be:
 - reuse must be share-alike (SA)(add same licence).
 
 This restricts the standard CC-BY Figshare licence.
+Data files (*.geojson) are over 25Mb and too big for Github. See links at Figshare, link below or see citation.
 
 This github will provide Binder access to Jupyter Notebook from Figshare.
 
