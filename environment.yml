@@ -1,0 +1,8 @@
+name: python 3.8.10
+dependencies:
+  - python=3.11.4
+  - numpy
+  - matplotlib
+  - geopandas==0.13.2
+  - pandas==1.5.3
+  - shapely==2.0.1
