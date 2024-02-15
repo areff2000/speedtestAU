@@ -12,6 +12,6 @@ AWS data licence is "CC BY-NC-SA 4.0", so use of this data must be:
 
 This restricts the standard CC-BY Figshare licence.
 
-
+This github will provide Binder access to Jupyter Notebook from Figshare.
 
 https://doi.org/10.6084/m9.figshare.13370504
