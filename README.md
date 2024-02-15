@@ -16,3 +16,7 @@ Data files (*.geojson) are over 25Mb and too big for Github. See links at Figsha
 This github will provide Binder access to Jupyter Notebook from Figshare.
 
 https://doi.org/10.6084/m9.figshare.13370504
+
+[![Binder](https://binderhub.rc.nectar.org.au/badge_logo.svg)](https://binderhub.rc.nectar.org.au/v2/gh/areff2000/speedtestAU/HEAD?labpath=Speedtest-workflow-import-v2.ipynb)
+
+Added Binder from ARDC service: https://binderhub.rc.nectar.org.au
