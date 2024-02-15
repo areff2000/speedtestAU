@@ -12,6 +12,9 @@ AWS data licence is "CC BY-NC-SA 4.0", so use of this data must be:
 
 This restricts the standard CC-BY Figshare licence.
 Data files (*.geojson) are over 25Mb and too big for Github. See links at Figshare, link below or see citation.
+Can download to local drive and load into Jupyter.
+Load data with: au2_tiles = gp.read_file("/mydir/speedtest.geojson")
+Plot with: au2_tiles.centroid.plot()
 
 This github will provide Binder access to Jupyter Notebook from Figshare.
 
