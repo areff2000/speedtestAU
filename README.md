@@ -20,6 +20,7 @@ Sample NZ data provided, since under 10Mb.
 This github will provide Binder access to Jupyter Notebook from Figshare.
 
 Data files (>25MB) at: https://doi.org/10.6084/m9.figshare.13370504
+NB: Error: Overflows 8GB RAM Binderhub container provided with global Speedtest data file (3GB)
 
 [![Binder](https://binderhub.rc.nectar.org.au/badge_logo.svg)](https://binderhub.rc.nectar.org.au/v2/gh/areff2000/speedtestAU/HEAD?labpath=Speedtest-workflow-import-v2.ipynb)
 
