@@ -18,6 +18,7 @@ Plot with: au2_tiles.centroid.plot()
 Sample NZ data provided, since under 10Mb.
 
 This github will provide Binder access to Jupyter Notebook from Figshare.
+** Currently not working. I am investigating. Seems connected to library versions.**
 
 Data files (>25MB) at: https://doi.org/10.6084/m9.figshare.13370504<br>
 NB: Error: Overflows 8GB RAM Binderhub container provided with global Speedtest data file (3GB)<br>
